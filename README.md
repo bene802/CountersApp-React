@@ -1,16 +1,18 @@
 My first React app.
 
-#Notes
+# Notes
 
 * Component
 * Virtual DOM and Real DOM
 * Loop in a list - map
-* Conditional expression - 1. new a function 2. logic expression (like &&)
+* Conditional expression - 
+* * new a function 
+* * logic expression (&&)
 * onClick event - pass reference, using arrow function
 * update state - setState()
 * pass data among components 
-** props (parent to child)
-** raise event (child to parent)
+* * props (parent to child)
+* * raise event (child to parent)
 * Single Source of Truth - remove state of one component, only use props
 * Lift state up - share data between components in same level -> lift the data to its parent
 * Stateless functional component
